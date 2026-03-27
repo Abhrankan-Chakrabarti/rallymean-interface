@@ -1,59 +1,61 @@
 # RallyMean
 
-> Not everything that averages… reveals.
-
-An early signal-processing experiment.
+> It wasn’t designed to be solved.  
+> It was designed to respond.
 
 ---
 
 ## ▶️ Entry Points
 
-Surface:
+Surface:  
 👉 https://rallymean.netlify.app
 
-Deep:
+Deep:  
 👉 http://senpjoekkf4hlth6ej5lyqoizi62ois6u44zpd5vucuzo3w4sz4tw3qd.onion/rallymean/
 
 ---
 
 ## 🧩 What this is
 
-A system that attempts to extract meaning from noise.
+An interactive system operating on unstable signals.
 
-It doesn't always succeed.
+What you see is not fixed.  
+What you do matters.
 
 ---
 
 ## ⚠️ No instructions
 
-If you're looking for a tutorial, you're already missing it.
+There is no guide.
+
+If you’re waiting to be told what to do,  
+you’ve already stopped too early.
 
 ---
 
 ## 👁️ Observations
 
-- Patterns exist before they are understood  
-- Input changes outcome  
-- The system reacts  
-
----
-
-## 🧠 Note
-
-This was not the final form.
+- Not all outputs are passive  
+- Repetition does not guarantee consistency  
+- Interaction leaves residue  
+- Some layers do not appear immediately  
 
 ---
 
 ## 🎬 Preview
 
-![preview](./preview.gif)
+[![preview](./preview.gif)](https://rallymean.netlify.app)
+
+---
+
+## 🧠 Note
+
+This instance is intact.
 
 ---
 
 ## 📌
 
-Some experiments evolve.
+Most people try to decode it.
 
-Some get abandoned.
-
-Some… continue elsewhere.
+That’s not why it exists.
