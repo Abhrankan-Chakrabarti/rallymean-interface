@@ -44,6 +44,12 @@ This was not the final form.
 
 ---
 
+## 🎬 Preview
+
+![preview](./preview.gif)
+
+---
+
 ## 📌
 
 Some experiments evolve.
